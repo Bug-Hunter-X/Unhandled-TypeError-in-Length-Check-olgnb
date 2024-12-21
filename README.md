@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error: attempting to access the 'length' property of a non-object.  The `bug.js` file contains the faulty code, while `bugSolution.js` provides a corrected version.  The error is particularly subtle because it only occurs when a non-object (such as a number or undefined) is passed to the function.
